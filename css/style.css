@@ -1,0 +1,59 @@
+h2 {
+	color: red;
+}
+
+.fa-instagram {
+	color: purple;
+	font-size: 70px;
+}
+
+.fa-hashtag {
+	font-size: 60px;
+}
+
+.material-symbols-outlined {
+	font-size: 50px;
+	color: green;
+}
+/* section 2 */
+
+.big-box {
+	width: 800px;
+	height: 600px;
+	border: 1px solid black;
+	margin: 0 auto;
+
+
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	gap: 12px;
+}
+
+.box {
+	aspect-ratio: 1 / 1;
+	height: 180px;
+}
+
+.yellow {
+	background-color: yellow;
+}
+
+.red {
+	background-color: red;
+}
+
+.green {
+	background-color: green;
+}
+
+.blue {
+	background-color: blue;
+}
+.cyan {
+	background-color: cyan;
+}
+
+
